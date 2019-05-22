@@ -1,0 +1,6 @@
+#layout {
+  color: black; }
+  #layout li {
+    background-position: center; }
+    #layout lihover {
+      color: #fff; }

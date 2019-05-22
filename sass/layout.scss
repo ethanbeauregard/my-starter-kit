@@ -1,0 +1,9 @@
+#layout {
+ color: black;
+ li {
+  background-position: center;
+  &hover {
+   color: #fff;
+  }
+ }
+}
